@@ -1,0 +1,13 @@
+[
+  { "latitude": 27.169021, "longitude": 78.043716, "timestamp": "2024-07-20T10:00:00Z" },
+  { "latitude": 27.169039, "longitude": 78.044047, "timestamp": "2024-07-20T10:00:10Z" },
+  { "latitude": 27.169050, "longitude": 78.044469, "timestamp": "2024-07-20T10:00:20Z" },
+  { "latitude": 27.169096, "longitude": 78.045021, "timestamp": "2024-07-20T10:00:30Z" },
+  { "latitude": 27.169067, "longitude": 78.045294, "timestamp": "2024-07-20T10:00:40Z" },
+  { "latitude": 27.169195, "longitude": 78.045573, "timestamp": "2024-07-20T10:00:50Z" },
+  { "latitude": 27.169010, "longitude": 78.045755, "timestamp": "2024-07-20T10:01:00Z" },
+  { "latitude": 27.168831, "longitude": 78.045690, "timestamp": "2024-07-20T10:01:10Z" },
+  { "latitude": 27.168651, "longitude": 78.045755, "timestamp": "2024-07-20T10:01:20Z" },
+  { "latitude": 27.168634, "longitude": 78.046223, "timestamp": "2024-07-20T10:01:30Z" },
+  { "latitude": 27.169026, "longitude": 78.043770, "timestamp": "2024-07-20T10:02:00Z" }
+]
